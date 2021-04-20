@@ -75,6 +75,8 @@ strong{
 .lista{
     padding: 40px;
     background-color: white;
+    line-height: 40px;
+    margin-top: 20px;
 }
 
 .lista1{
@@ -82,12 +84,6 @@ strong{
     list-style: none;
     padding-left: 2px;
     padding-top: 5px;
-}
-
-.lista2{
-    list-style: none;
-    margin-top: 20px;
-    line-height: 40px;
 }
 
 .cerchio-v{
@@ -109,6 +105,46 @@ strong{
 
 .ed{
     background-color: rgb(69, 171, 234);
+    padding: 7px;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.q1{
+    background-color: rgb(156, 114, 228);
+    padding: 7px;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.re{
+    background-color: rgb(100, 192, 169);
+    padding: 7px;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.mo{
+    background-color: rgb(242, 158, 51);
+    padding: 7px;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.we{
+    background-color: rgb(216, 99, 161);
+    padding: 7px;
+    color: white;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.sa{
+    background-color: rgb(176, 201, 38);
     padding: 7px;
     color: white;
     font-size: 10px;
