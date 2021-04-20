@@ -2,8 +2,11 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: rgb(246, 248, 249);
     font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(246, 248, 249);
 }
 
 header{
@@ -11,39 +14,31 @@ header{
 }
 
 .logo-container{
-    background-color: white;
     height: 100px;
     display: inline-block;
     vertical-align: middle;
 }
 
 #logo-boolean{
-    background-color: white;
     margin-top: 20px;
     margin-left: 30px;
     display: inline-block;
 }
 
 .title{
-    background-color: white;
     display: inline-block;
     font-size: 35px;
-}
-
-strong{
-    background-color: white;
 }
 
 .list-container{
     background-color: white;
     width: 1000px;
-    height: 550px;
+    height: 680px;
     margin: 0 auto;
     margin-top: 30px;
 }
 
 .bottone{
-    background-color: white;
     padding-top: 10px;
     padding-left: 40px;
 }
@@ -58,14 +53,12 @@ strong{
 }
 
 .bottone2{
-    background-color: white;
     color: lightgrey;
     display:inline-block;
     padding: 7px;
     border-radius: 5px;
     font-size: 10px;
     border: 1px solid lightgrey;
-
 }
 
 .linea{
@@ -74,20 +67,17 @@ strong{
 
 .lista{
     padding: 40px;
-    background-color: white;
     line-height: 40px;
     margin-top: 20px;
 }
 
 .lista1{
-    background-color: white;
     list-style: none;
     padding-left: 2px;
     padding-top: 5px;
 }
 
 .cerchio-v{
-    background-color: white;
     padding: 3px;
     border-radius: 100%;
     border: 1px solid green;
@@ -95,12 +85,10 @@ strong{
 }
 
 .croce-x{
-    background-color: white;
     padding: 3px;
     border-radius: 100%;
     border: 1px solid red;
-    color: red;
-    
+    color: red;   
 }
 
 .ed{
