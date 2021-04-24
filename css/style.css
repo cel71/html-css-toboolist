@@ -39,8 +39,11 @@ header{
 }
 
 .bottone{
-    padding-top: 10px;
+    padding-top: 20px;
     padding-left: 40px;
+    border-bottom: 1px solid lightgrey;
+    padding-bottom: 10px;
+    
 }
 
 .bottone1{
@@ -61,14 +64,12 @@ header{
     border: 1px solid lightgrey;
 }
 
-.linea{
-    margin-top: 10px;
-}
+
 
 .lista{
     padding: 40px;
-    line-height: 40px;
-    margin-top: 20px;
+    line-height: 50px;
+    margin-top: 10px;
 }
 
 .lista1{
@@ -78,17 +79,25 @@ header{
 }
 
 .cerchio-v{
-    padding: 3px;
-    border-radius: 100%;
+    display: inline-block;
     border: 1px solid green;
     color: green;
+    border-radius: 50%;
+    width: 23px;
+    height: 23px;
+    line-height: 22px;
+    text-align: center;
 }
 
 .croce-x{
-    padding: 3px;
-    border-radius: 100%;
+    display: inline-block;
     border: 1px solid red;
-    color: red;   
+    color: red;
+    border-radius: 50%;
+    width: 23px;
+    height: 23px;
+    line-height: 22px;
+    text-align: center;
 }
 
 .ed{
